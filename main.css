@@ -1,0 +1,71 @@
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    body{
+       background-color: #f7fbff;
+       padding: 0px 90px;
+    }
+    
+    h1{
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        padding: 50px;
+    }
+    
+    h2{
+        margin: 0%;
+    }
+    
+    form{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .form-check1{
+        background-color: rgb(69, 119, 167);
+        height: 40px;
+        width: 90px;
+        font-weight: bold;
+        color: white;
+        border-radius: 100px;
+        
+    }
+    .form-check2{
+        background-color: rgb(195, 240, 195);
+        height: 40px;
+        width: 90px;
+        font-weight: bold;
+        color: white;
+        border-radius: 100px;
+    }
+    
+    .form-check3{
+        background-color: rgb(249, 250, 175);
+        height: 40px;
+        width: 90px;
+        font-weight: bold;
+        color: white;
+        border-radius: 100px;
+    }
+    
+    .form-check4{
+        background-color: rgb(255, 209, 140);
+        height: 40px;
+        width: 90px;
+        font-weight: bold;
+        color: white;
+        border-radius: 100px;
+    }
+    
+    .form-check5{
+        background-color: rgb(255, 149, 149);
+        height: 40px;
+        width: 90px;
+        font-weight: bold;
+        color: white;
+        border-radius: 100px;
+    }
